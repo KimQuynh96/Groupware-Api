@@ -9,6 +9,11 @@ from kquynh_param_gw import run
 from kquynh_login import domain_list
 import kquynh_login,kquynh_whisper,kquynh_mail,kquynh_comanage,kquynh_board,kquynh_project,kquynh_resource,kquynh_asset,kquynh_expense
 
+
+
+
+
+
 param=json.loads(run())
 
 # Many domain #
