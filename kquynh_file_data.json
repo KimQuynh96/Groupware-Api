@@ -1,0 +1,1016 @@
+{
+  "success":{
+    "success":"",
+    "html":""
+  },
+  "login":{
+    "api_login" :"http://qa.hanbiro.net/ngw/sign/auth",
+    "id_user":"RSVQZ7VTHcsWuDyZcl+C/85vF+EIxgnoQMZRcNYZaE7TfpBv3G6HwUA0x8uTTbynx4mWESWs55jvesdLToZ4qSXVyWoIdQXggEEKA5qoLkgERg1sVEL6NVd3QkRbnGCbaJQhSP9ybDYrazqCxyPHXf2cPxYNoX6pLIeiIA4RfdU=",
+    "passwword_user":"VgSlC1YsQhoa9aws6RYlW7PVS2iIHR6AbDaBOerkmpj0g6dcDa7k0cPp/tNlpqdKOe7Pr1eKxWx3va177gg+xzWQpPrYBodlUmDjXOzBXzwDYJlOHzciNTdG6/6UUH0jdDImum8TgHJqcjXW2ojFGTToskCH87skQZlpDPCPHrw=",
+    "id_postmaster":"Xl74SgiNVDM2GTkZCv9fadcmBj/jiCtILRqy60HLpmxAxxXfygteXam+naLjP3zCW0w6+JzKfjkTu/iFP09fI7tPx35hpI5lOIcC78SUEewu2NNIhuovI8/cxsYxk31CZ+iMkg8jFi3P1x68Kol7AsEd5T+XUWJ651TDhzOKrtU=",
+    "passwword_postmaster":"Y5B3uplekXWgptPEhXXYPp10/kPkikVJSGnu3IPjLw3tO84k2Zipst7/f2qJBQRJiwskQC8S1AA0pC5LJi9yQmtCione6/Kf1Gt3391P9ZvzD4Wyee3xcSkIhJgjRnewty4zha3wwcM5khfkL9eg0d2McW4WFVa35djUWbvr3+Q=",
+    "id_recipient":"WKvrAnaoxJalYJntLyZfFsfC0mdhq+ASkhST58KpBf8tns8y+VMMABMzFZmdxZmSfq+Y/t68h2HTXoZpV9ZWuS+ohroZl9BrpdaRyTfV+PvqJhdAys0DdbiwVR3kQPDIrhqLix1nRPFZXie3RabBrGUpHHJpg4apcmzNMYevK8Y=",
+    "password_recipient":"fAkSHS+8lI/YU3sqzb1drkUuYSZTQCT8ylVUfXDW/IeZomAre+6SqwhB6outm4VhJ06jZJE+/ZDRNk1Qgi6itmIUJsY/YbCDlC1rCSYkCZjZ7EouXmEuvXJcTFZ4UljLzcfPj822LkknwTNigLxND3gUtCnlM3n4xySIAowPBEU=",
+    "id_ts6":"j0FPw2xSu1wTXyczavJtCdGohKxQlOy3e5hT71jIuEzYqJ+Bq5rx7BgCYdagqEvemSOTXdat+ahgqVQu+Jcr6xfzAodr4OMgS1C/HilIlryhAK+/O8k0+gOXji70lEKlZtuVYoUkvUWHBDP1Q0UdBwoDpdhzBsNpcDCrzI+OB3o=",
+    "pw_ts6":"Jf8vRqCH5F/T9WCStwJEmeU2uim415nKmClROW2HOjvLPeZ3sowQPePLoiMxaxRpBopS66f3HkUuCaQGiRCtdGAZPHMuQo5ewllm5m5AdfBsvegrzjFy7XVwWSyIFg1y0mSC36lPMSsnkb+cd32cuZ03wVjGBeMn/yYINV05yPw=",
+    "id_wrong":"x/fzZKox/1tlkOK2z4aEC0D6WJeMO3BYnsD0GkYFEyc43owMYwctDqtAZk3JzFBH3pEEMcMT7wnkzj3LT45zmozvBfyrl/5x8qqmvuThQnaot2YjBHxCDsovBfNEtu/LsKFigS+yYB1lbRXhCHXbgk3fgJqbnapnhgM6zifQdmw=",
+    "pw_wrong":"XJIvpSb+CjZAEc4Xt/Yj8v8Obcz5lWlRYS4wKhrxhio7Wiumw2GJMkgD8pNfQqJZnbZY8Q8MVC7QZ+43cn3paLRiD3x+7nIr6KjNshz02cKHOkATbXNSKrllFGsZLiy+91AuKKxuQAzRMYwuNaazh3oZY1i1X2aWXW9Q8RTmylM=",
+    "common_pass":"Jf8vRqCH5F/T9WCStwJEmeU2uim415nKmClROW2HOjvLPeZ3sowQPePLoiMxaxRpBopS66f3HkUuCaQGiRCtdGAZPHMuQo5ewllm5m5AdfBsvegrzjFy7XVwWSyIFg1y0mSC36lPMSsnkb+cd32cuZ03wVjGBeMn/yYINV05yPw=",
+    "ts3":"qnL95JbULJAMpdXk1DkkgN15bxKGDDu5PcfTbyxkbMd9/YOloro75g9P+Z/g1p+t9cApfV3A2/fy64r3+jRrY+2E39QwmAutAGvkZVqwQ3Haoi2DlP0fG95Z6xf77JFoQPa2m9mRg2SB2aCKgAZGW0L4KwI/9MMymeR8M8QKov4=",
+    "ts2":"WKvrAnaoxJalYJntLyZfFsfC0mdhq+ASkhST58KpBf8tns8y+VMMABMzFZmdxZmSfq+Y/t68h2HTXoZpV9ZWuS+ohroZl9BrpdaRyTfV+PvqJhdAys0DdbiwVR3kQPDIrhqLix1nRPFZXie3RabBrGUpHHJpg4apcmzNMYevK8Y=",
+    "ts4":"",
+    "ts5":"zrVk1WTvyeHqCEQhoUYQ5/UnLgT2SfSIDXJmoRULjj+unx/6JYb8pWiHkmI5+/FZ6wroTfvd0DvXIqtgrO4EP7z4Hz16HrH6nVU3L9YmkQQwsqVYNKqDrSJXUxfZfZZd58AqtWyJvVuIYYykRCSQmJ0GftszyoxHU70kSQmnQM4=",
+    "ts6":"EVO8NR66VkpjS2aBdVq5AruAbStsGPU3gwGXna9lPlAgz4hKArPCAJNo2mbSTDvZTup1DSGb+JJUWUN86Sb9L+MG3UIDWnmK0gQ27x1sLFsEHVBY23EUzYSCLZzJa6/5ue4VpyZuIzlKqWxgpxhNujgZWIB1t+gIcA+sk0jrXjs=",
+    "ts7":"adbK9RzkwgNRRd04nsFq8Vv79Q2VGCo9C7qojz+Y1tSQL09I7ZmyvRkeAOYeDZRv4B9iyyUrbWBFrzpuCkClP+TYWIY4brbwWCAwoLONWgGF88ZWAW4Mxz4/rc0SrkDcO+WZU0svWKX726aoi0ecYM/fP0GC/oM4CpDBi0DS0rk=",
+    "ts8":"Wg7QnzyNGfz9Jkkl+Y5CiTly9/V7zFPxCRAi2m6VkCAhIsFDwI1hvhmDwukIEjnHROqNa1b1OgAEvvncBhkO4/6zQ4fLLnODsTtXpSL6y36ysN0z31QkbVror17RRlNyMDxIaygC/mcj9OO1Cb2q+NdLgGtbfuZKR6DQBgWvQn4=",
+    "ts9":"SW6V98pNF9McWOXlevFl4pYH6FWVA/oelRguSjgbZTTOWw2ewfdANJid5488ZkMDlxCSGsUWz28Dh0YCUv5d6Hi5Ik16Ft0vOdrYjn6pUAgOruwelUr0VPGkWb8lCvtEorsUS1b8leQ+ppqaAhY/bgSVCRP4ZYIYYN4ell9O+DQ=",
+    "ts10":"P5a+UuE0QUqE5yFRUwWqEpvBfX1BSIxOEXhmLA6nbMVVYcbpwxoLk6cp0VNhd0SxL7Xn4aggEoHx4wudKckyMFPCOHb+54HFI+zrfLaivjYPLTXkfJx5r3B+uPQeHSvmMWHQXCXI5DdT5i/DnL4jIO/b3bwZ5n1LFdffXQ3UsDg="
+  },
+  "account":{
+    "id_us_one":"",
+    "pw_us_one":"",
+    "id_us_two":"",
+    "pw_us_two":"",
+    "id_us_thr":"",
+    "pw_us_thr":"",
+    "config":"https://qa.hanbiro.net/ngw/common/config/mode/all?im_not_app=1",
+    "account":{"account1":"","account2":"","account3":""}
+  },
+  "attach_file":{
+    "api":"http://qa.hanbiro.net/phuoc/ngw/common/upload2?id=",
+    "param":{
+      "name": "",
+      "chunk": "0",
+      "chunks": "1",
+      "file": ""
+    }
+  },
+  "change_language":"",
+  "whisper":{
+    "send_wp":"-Send whisper is success",
+    "sent_box":"-The whisper has been saved in Sent Box",
+    "api_send_whisper":"http://qa.hanbiro.net/ngw/whisper/main/insert",
+    "param_send_whisper":
+    {
+      "to": "",
+      "receivers": "TS2",
+      "upload_id":""
+
+    },
+    "list_send_box":
+    {
+      "api_list":"http://qa.hanbiro.net/ngw/whisper/main/list",
+      "param_list":
+      {
+        "type": "sentbox",
+        "page": "1",
+        "limit": "10",
+        "sortby": "",
+        "sorttype": "",
+        "searchtext": "",
+        "startdate": "",
+        "enddate":"" ,
+        "searchtype": "",
+        "unread": "",
+        "format":"plain-text"
+      }
+      
+    },
+    "list_inbox":
+      {
+        "api_list":"http://qa.hanbiro.net/ngw/whisper/main/list",
+        "param_list":
+        {
+          "type": "inbox",
+          "page": "1",
+          "limit": "10",
+          "sortby": "",
+          "sorttype": "",
+          "searchtext": "",
+          "startdate": "",
+          "enddate":"" ,
+          "searchtype": "",
+          "unread": "",
+          "format":"plain-text"
+        }
+
+      },
+    "view whisper":
+      {
+       "api_view" :"http://qa.hanbiro.net/ngw/whisper/main/view",
+       "param_view":
+       {
+        "type":"inbox",
+        "param":" ",
+        "format": "html"
+       }
+      },
+    "search whisper":
+    {
+      "api_search":"http://qa.hanbiro.net/ngw/whisper/main/list",
+      "param_search":
+      {
+        "type": "inbox",
+        "page": "1",
+        "limit": "10",
+        "sortby": "",
+        "sorttype": "",
+        "searchtext": "",
+        "startdate": "",
+        "enddate":"" ,
+        "searchtype": "sender",
+        "unread": "",
+        "format":"plain-text"
+      }
+    },
+    "delete":
+    {
+      "api_delete":"http://qa.hanbiro.net/ngw/whisper/main/deletemultiwhisper",
+      "param_delete":{
+          "type": "inbox",
+          "page": "1",
+          "limit": "50",
+          "sortby": "",
+          "sorttype": "",
+          "searchtext": "",
+          "startdate": "",
+          "enddate": "",
+          "searchtype": "",
+          "unread": "false",
+          "format": "plain-text",
+          "list_id": "",
+          "cn":"0",
+          "ucn":"0",
+          "action": "deletemulti",
+          "count": "1",
+          "total": ""
+        }
+    }
+  },
+  "board":{
+    "admin":
+    {
+      "manage_company_folder":
+      {
+        "get_list_company_folder":"http://qa.hanbiro.net/ngw/admin/board/new_folder_manager",
+        "api_create_folder":"http://qa.hanbiro.net/ngw/admin/board/save",
+        "param_create_folder":
+        {
+          "folder_name": "",
+          "folder_no": "0",
+          "folder_up": "0",
+          "share_list": " ",
+          "folder_ment": "Test 1",
+          "noname": "false",
+          "btype": "1",
+          "bform": "1",
+          "is_use":"1",
+          "is_share": "false",
+          "use_reply": "1",
+          "alarm": "1",
+          "use_attachment": "true",
+          "use_attachment_size": "1000",
+          "use_top_menu": "0",
+          "preservation": "0",
+          "is_like": "true",
+          "is_dislike": "true",
+          "use_blind": "true",
+          "blind_count": "10",
+          "like_close_date": "10"
+        },
+        "api_create_subfolder":"http://qa.hanbiro.net/ngw/admin/board/save",
+        "param_create_subfolder":
+        {
+          "folder_name": "",
+          "folder_no": "0",
+          "folder_up": "",
+          "share_list": "",
+          "folder_ment": "",
+          "noname": "false",
+          "btype":"1",
+          "bform": "1",
+          "is_use":"1",
+          "is_share": "false",
+          "use_reply":" 1",
+          "alarm":"1",
+          "use_attachment": "true",
+          "use_attachment_size": "1000",
+          "use_top_menu":"0",
+          "preservation":"0",
+          "is_like": "true",
+          "is_dislike": "true",
+          "use_blind": "false",
+          "blind_count": "0",
+          "like_close_date": "",
+          "id_folder_parse": "1"
+        }
+      }
+    },
+    "notice_board":
+    {
+      "write_board":
+      {
+        "api_write":"http://qa.hanbiro.net/ngw/board/board/save",
+        "param_write":
+        {
+          "mode": "insert",
+          "id": "",
+          "folder": "",
+          "subject": "",
+          "catseq": "",
+          "content": "<div>Content Board</div>",
+          "notice": "",
+          "notice_term": "",
+          "secret": "false",
+          "secret2": "false",
+          "secret_pass": "",
+          "secure": "false",
+          "webDiskList": "",
+          "sms": "",
+          "mail": "false",
+          "pre_mail": "0",
+          "sms_user": "",
+          "sms_org": "",
+          "skey": "",
+          "opt": "",
+          "upload_id": " ",
+          "pop": "false",
+          "alarm": "true",
+          "is_join": "false",
+          "section": "comp"
+        }
+      }
+    },
+    "left_menu":
+    {
+      "api_left":"http://qa.hanbiro.net/ngw/board/tree/index/type/comp/folder/comp_0/reverse/1",
+      "param_left":{
+          "type": "comp"
+      }
+    },
+    "list_board":
+    {
+      "api":"http://qa.hanbiro.net/ngw/board/board/index/?",
+      "param":{
+        "folder": "",
+        "type": "comp",
+        "order_by": "regdate",
+        "page": "1",
+        "limit": "10",
+        "all": "0",
+        "type_view": "",
+        "short_name": "true",
+        "sort_by": "desc",
+        "field": "subject",
+        "keyword": "",
+        "cate_id": "",
+        "unread": "",
+        "my_folder_no": "",
+        "my_folder_name": "Folder",
+        "end_date": "",
+        "start_date": "",
+        "subject": "",
+        "content": "",
+        "attached_file": "",
+        "writer": "",
+        "where_get_list": "boardReloadList"
+      }
+    },
+    "delete":{
+      "api":"http://qa.hanbiro.net/ngw/board/board/delete",
+      "param":{
+        "id": "",
+        "type": "comp",
+        "folder":"",
+        "section": "comp"
+      }
+    },
+    "delete_board": {
+      "api":"http://qa.hanbiro.net/ngw/board/board/multi_delete",
+      "param":{
+        "ids[0]": "",
+        "type": "comp",
+        "folder":"",
+        "menu_head_list": "comp"
+      },
+      "api_delete_view_board":"http://qa.hanbiro.net/ngw/board/board/delete",
+      "param_delete_view":{
+        "id": "",
+        "type": "comp",
+        "folder":"",
+        "section": "comp"
+      }
+    },
+    "view_board":{
+      "api":"http://qa.hanbiro.net/ngw/board/board/view/?",
+      "param":{
+        "folder": "",
+        "id": "",
+        "reply_tree": "true",
+        "lazy_load_reply": "1",
+        "page": "1",
+        "limit": "15",
+        "order_by": "regdate",
+        "sort_by": "desc",
+        "type_view": "",
+        "field": "subject",
+        "keyword": "",
+        "cate_id": "",
+        "unread": "",
+        "my_folder_no": "",
+        "my_folder_name": "Folder",
+        "end_date": "",
+        "start_date": "",
+        "subject": "",
+        "content": "",
+        "attached_file": "",
+        "writer": "",
+        "type": "comp",
+        "brdseq":"0",
+        "list_page": "true"
+      }
+    },
+    "counter":{
+      "api":"http://qa.hanbiro.net/ngw/board/board/count_unread",
+      "param":{
+        "fcn":"",
+        "conditions[A.userid]": "",
+        "conditions[A.gubun]": "",
+        "conditions[A.serial]": "",
+        "search_table": "",
+        "search_table_on": "",
+        "unread": "",
+        "dashboard": "",
+        "is_company_board": ""
+      }
+    }
+  },
+  
+  "mail":{
+    "compose_mail":
+    {
+      "api_write" :"http://qa.hanbiro.net/email/write/Maildir",
+      "param_write":
+      {
+        "mode": "write",
+        "mailid": "",
+        "toaddr": "'TS2' <ts2@qa.hanbiro.net>",
+        "bccaddr": "",
+        "ccaddr": " ",
+        "issave": "y",
+        "issplit":"n",
+        "subject": "",
+        "senddate": "",
+        "issecu": "n",
+        "secupass": "",
+        "upfiles": "",
+        "todraft": "n",
+        "issimple": "n",
+        "isorgmail": "y",
+        "siginfo": "",
+        "siglocation": "t",
+        "fromaddr":"'TS1' <ts1@qa.hanbiro.net>",
+        "contents": "",
+        "upload_id": "mail_4003b732-ab0c-4314-8551-0a04c7de1948",
+        "mailbox": "Maildir",
+        "webdisk": "[]",
+        "eapprover": " ",
+        "mapprover": " "
+      }
+    },
+    "reply_mail":
+    {
+      "api_write" :"",
+      "param_write":
+      {
+        "mode": "reply",
+        "mailid": "",
+        "toaddr": "",
+        "bccaddr": "",
+        "ccaddr": " ",
+        "issave": "y",
+        "issplit":"n",
+        "subject": "",
+        "senddate": "",
+        "issecu": "n",
+        "secupass": "",
+        "upfiles": "",
+        "todraft": "n",
+        "issimple": "n",
+        "isorgmail": "y",
+        "siginfo": "",
+        "siglocation": "t",
+        "fromaddr":"",
+        "contents": "",
+        "upload_id": "",
+        "mailbox": "Maildir",
+        "webdisk": "[]",
+        "eapprover": " ",
+        "mapprover": " "
+      }
+    },
+    "get_list_mail":
+    {
+      "api_list":"http://qa.hanbiro.net/email/list?",
+      "param_list":
+      {
+        "acl": "Maildir",
+        "act": "maillist",
+        "mailsort": "date",
+        "msgsig": "",
+        "sortkind": "0",
+        "timemode": "mobile",
+        "viewcont": "0,10"
+      }
+    },
+    "get_list_sent":
+    {
+      "api_list":"http://qa.hanbiro.net/email/list?acl=Sent&act=maillist&mailsort=date&msgsig=&sortkind=0&timemode=mobile&viewcont=0,15",
+      "param_list":
+      {
+        "acl": "Sent",
+        "act": "maillist",
+        "mailsort": "date",
+        "msgsig": "",
+        "sortkind": "0",
+        "timemode": "mobile",
+        "viewcont": "0,10"
+      }
+    },
+    
+    "delete_mail" :
+    {
+      "api_list":"http://qa.hanbiro.net/cgi-bin/NEW/mailTohtml5.do?removemail=1",
+      "param_list":
+      {
+        "acl": "Maildir",
+        "act": "maildel",
+        "mid": ""
+      }
+    }
+  
+  },
+  "work_diary":{
+    "write_task":{
+      "api":"http://qa.hanbiro.net/ngw/diary/diary/write",
+      "param":{
+        "collapse" :"true",
+        "method":"add",
+        "old_attach":"",
+        "category" :"1",
+        "d_public":"y",
+        "upload":"",
+        "webdisk":"",
+        "group":"305",
+        "from":"09/25/2020",
+        "to":"09/25/2020",
+        "subject":"",
+        "skey":"ec0945dd101f203886cd8a524493eb89",
+        "contents":"Daily Report",
+        "folder":"default",
+        "type":"my",
+        "upload_id":"task_3dce5bfd-b46e-4940-9e50-51b7563709dd"
+      }
+    },
+    "my_work_diary":
+    {
+      "api":"http://qa.hanbiro.net/ngw/diary/diary/list/page/1/?&type=my&id=default&num_page=10"
+    },
+    "add_comment":
+    {
+      "api":"http://qa.hanbiro.net/ngw/diary/diary/comment",
+      "param":{
+        "content":"",
+        "id":"",
+        "article_subject:":"",
+        "up":"0"
+
+      }
+    },
+    "left_tree" :"http://qa.hanbiro.net/ngw/diary/tree/index/id/status/menu/ok/reverse/1",
+    "api_parent_folder":"http://qa.hanbiro.net/ngw/diary/tree/index/id/",
+    "api_get_list":{
+      "id":"",
+      "mode":"",
+      "type":"",
+      "num_page":"10"
+    },
+    "delete_task":{
+      "api":"http://qa.hanbiro.net/ngw/diary/diary/delete",
+      "param":{
+        "page":"1",
+        "limit":"10",
+        "mode":"",
+        "list":""}
+    },
+    "view_task":
+    {
+      "type":"",
+      "id" :"",
+      "num_page":"10",
+      "dpage":"1",
+      "isGetNext":"true",
+      "mode":"",
+      "seqNo":""
+    }
+  },
+  "task_report":{
+    "left_tree" :""
+  },
+  "comanage":{
+    "create_project":{
+      "url":"http://qa.hanbiro.net/ngw/projectnew/project/save",
+      "param":{
+        "subject":"",
+        "code":"P1",
+        "template":"0_1",
+        "mode":"add",
+        "ptype":"1",
+        "folder_no":"0_0",
+        "comment":""
+      }
+    },
+    "detail_project":"http://qa.hanbiro.net/ngw/projectnew/project/detail?pseqno=",
+    "get_list_project_left":{
+      "url":"http://qa.hanbiro.net/ngw/projectnew/project/menu?",
+      "param":{
+        "limit":"10",
+        "page":"1"
+      }
+    },
+    "load_project":"http://qa.hanbiro.net/ngw/projectnew/project/project_setting?pseqno=",
+    "basic_information" :{
+      "add_member":{
+        "url":"http://qa.hanbiro.net/ngw/projectnew/project/add_member",
+        "param":{
+          "pseqno":"",
+          "user_list":""
+        }
+      },
+      "add_leader":{
+        "url":"http://qa.hanbiro.net/ngw/projectnew/project/add_member",
+        "param":{
+          "pseqno":"",
+          "user_list":""
+        }
+      },
+      "get_list_member":{
+      "url":"http://qa.hanbiro.net/ngw/projectnew/project/member_list?",
+      "param":{
+        "pseqno":""
+      }
+      
+      },
+      "add_work_type_to_work":{
+        "url":"http://qa.hanbiro.net/ngw/projectnew/project/project_work_type_save",
+        "param":{
+          "pseqno":"",
+          "ttseq":""
+        }
+    },
+      "add_work_status_work":{
+        "url":"http://qa.hanbiro.net/ngw/projectnew/project/project_status_save",
+        "param":{
+          "pseqno":"",
+          "sseq":""
+        }
+    },
+
+    "get_list_init_work_type":"http://qa.hanbiro.net/ngw/projectnew/project/init_status_worktype",
+    "list_id_init_work_type":"",
+    "list_id_init_status":""
+    },
+    "list_id_pro_status":"",
+    "admin":{
+      "color":"#000000,#434343,#666666,#cccccc,#d9d9d9,#ffffff,#980000,#ff0000,#ff9900,#ffff00,#00ff00,#00ffff,#4a86e8,#0000ff,#9900ff,#ff00ff,#e6b8af,#f4cccc,#fce5cd,#fff2cc,#d9ead3,#d0e0e3,#c9daf8,#cfe2f3,#d9d2e9,#ead1dc,#dd7e6b",
+      "icon":"fa fa-500px,fa fa-adjust,fa fa-adn,fa fa-align-center,fa fa-amazon,fa fa-ambulance",
+      "list_work_type":"",
+      "status_category":{
+        "To-Do":"1",
+        "In Progress":"2",
+        "Done":"3"
+      },
+      "manage_work_type":{
+        "add_work_type":{
+          "url":"http://qa.hanbiro.net/ngw/projectnew/work_type/save",
+          "param":{
+            "subject":"",
+            "color":"",
+            "is_default":"0",
+            "icon":""
+          }
+        }
+      },
+      "manage_status":{
+        "url":"http://qa.hanbiro.net/ngw/projectnew/project/status_save",
+        "param":{
+          "name":"",
+          "color":"",
+          "is_base":"",
+          "description":"",
+          "category":""
+        }
+      },
+      "get_list_work_type":"http://qa.hanbiro.net/ngw/projectnew/work_type/list",
+      "get_list_status":"http://qa.hanbiro.net/ngw/projectnew/project/status_list_all"
+    },
+    
+    "create_work":{
+      "url":"http://qa.hanbiro.net/ngw/projectnew/work/save",
+      "param":{
+        "pseqno": "",
+        "params[content]": "",
+        "params[subject]": " ",
+        "params[epic_name]": " ",
+        "params[start_date]": " ",
+        "params[due_date]": " ",
+        "params[eseqno]": " ",
+        "params[sseqno]": " ",
+        "params[status]": " ",
+        "params[priority]":" ",
+        "params[type]": " ",
+        "params[files]":" "
+    }
+  }
+    
+  },
+  "contact":{
+    "get_list_left_menu":"http://qa.hanbiro.net/ngw/org/tree/group/org_0/?reverse=1",
+    "get_list_user":{
+      "url":"http://qa.hanbiro.net/ngw/addrbook/contact/list",
+      "param":
+      {
+        "per_page":"20",
+        "all":"0",
+        "id":"",
+        "page":"1",
+        "filter":" ",
+        "sort":"seq",
+        "order":"asc",
+        "alphabet":" "
+        
+      }
+    },
+    "list_user":{
+      "ts1":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+
+      },
+      "ts2":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts3":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts4":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts5":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts6":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts7":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts8":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts9":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      },
+      "ts10":{
+        "ucn":"",
+        "userno":"",
+        "seqno":"",
+        "cn":""
+      }
+  }
+    
+  },
+  "clouddisk":{
+    "get_list_folder":{
+    "api":"http://qa.hanbiro.net/cloud/api/get.php?",
+    "param":{
+      "access": "1",
+      "type": "dir"
+    }
+    },
+    "folder_name":
+    {
+      "my":"",
+      "sync":"",
+      "org":"",
+      "share":""
+    },
+    "upload_file":{
+      "api":"http://qa.hanbiro.net/cgi-bin/cloudUpload.cgi",
+      "param":{
+        "name":"",
+        "fkey":"",
+        "file":"",
+        "cookie":"",
+        "parentId":""
+      }
+    }
+
+  },
+  "project":{
+    "create_pro":{
+      "param":{
+        "mode": "add",
+        "subject": "Project ",
+        "folder_no": "0_0",
+        "charge": "",
+        "part": "",
+        "code_name": "Code",
+        "read": "",
+        "is_term": "0",
+        "is_mail": "0",
+        "is_sms": "0",
+        "comment": "",
+        "start_date": "",
+        "end_date": "",
+        "guest_id": "",
+        "guest_pass": "",
+        "priority": "1",
+        "currency": "VND",
+        "type": "2",
+        "use_logtime": "0",
+        "working_time": "8",
+        "standard_cost": "0",
+        "ot_cost": "0",
+        "is_modify_logtime": true,
+        "is_exform": "0"
+       
+      }
+    },
+    "my_pro":{
+      "param":{
+        "type": "2",
+        "id": "0_0",
+        "page": "1",
+        "limit": "50"
+      }
+    },
+    "create_wk":{
+      "param":{
+        "type": "1",
+        "subject": "",
+        "content": "",
+        "status": "1",
+        "priority": "1",
+        "parent_task": "",
+        "start_date": "",
+        "due_date": "",
+        "assignee": "",
+        "estimated_time": "0",
+        "percent": "0",
+        "pseq": "",
+        "ismail": "0",
+        "issms": "0",
+        "parent_value": "",
+        "ticket_refer": "",
+        "upload_id": ""
+      }
+    }
+  },
+  "resource":{
+    "create_res":{
+      "param":{
+        "view_type": "0",
+        "mode": "add",
+        "et_rev_method": "1",
+        "is_conference": "false",
+        "is_verhicle": "false",
+        "ec_is_system": "C",
+        "use_approval": "false",
+        "picture_name": "",
+        "allday": "true",
+        "start_time": "0:00",
+        "end_time": "23:30",
+        "et_pre_time": "0",
+        "et_state": "1",
+        "et_return": "false",
+        "ec_idx": "",
+        "category_parent_name": "Conference Room",
+        "et_name": "Room 1",
+        "isSaving": "true"
+      }
+    },
+    "info_resource":{"id":"","name":"","ec_is_system":"","result":"False"}
+  },
+  "expense":{
+    "add_folder":{
+      "title": "",
+      "parent_id": "0"
+    },
+    "add_expense":{
+      "unlimited": "1",
+      "max_amount": "",
+      "currency": "USD",
+      "dept": "13_0",
+      "title": "Test 1",
+      "memo": "memo",
+      "category_id": "7_0",
+      "carbons_copy": "0_46",
+      "start_date": "2021/10/01",
+      "end_date": "2021/10/08"
+    },
+    "expsense_list":{
+      "page": "1",
+      "category": "7_0",
+      "section": "my",
+      "limit": "15",
+      "sort_type": "1",
+      "sort_column": "created_date",
+      "all": "0",
+      "filter": "complete,progress,reject,cancel,active",
+      "writerFilterKeyword": "",
+      "search_key": "",
+      "loadType": "page"
+    },
+    "delete_expsense":{
+      "id[0]": ""
+    }
+
+  },
+  "asset":{
+    "add_category":{
+      "category_name": "",
+      "category_id": "0",
+      "parent_id": "0",
+      "reserve_list":"" ,
+      "description": "",
+      "is_active": "true",
+      "is_approval": "false",
+      "is_public": "false"
+    }
+  },
+  "whisper_msg":{
+    "pass_send": "-Send whisper <Pass>",
+    "fail_send": "-Send whisper <Fail>",
+    "fail_inbox_list":"-Get Inbox List <Pass>",
+    "pass_received_whisper":"-The whisper is displayed in the list <Pass>",
+    "fail_received_whisper":"-The whisper is displayed in the list <Fail>",
+    "fail_sent_list":"-Get Inbox List <Pass>",
+    "pass_sent_whisper":"-The whisper is displayed in the list <Pass>",
+    "fail_sent_whisper":"-The whisper is displayed in the list <Fail>",
+    "pass_inbox_view":"-Inbox List : View whisper <Pass>",
+    "fail_inbox_view":"-Inbox List : View whisper <Fail>",
+    "pass_inbox_delete":"-Inbox List : Delete Whisper <Pass>",
+    "fail_inbox_delete":"-Inbox List : Delete Whisper <Fail>",
+    "pass_inbox_removed":"-Inbox List : The whisper is removed from the list <Pass>",
+    "fail_inbox_removed":"-Inbox List : The whisper is removed from the list <Fail>",
+    "pass_sent_delete":"-Sent List : Delete Whisper <Pass>",
+    "fail_sent_delete":"-Sent List : Delete Whisper <Fail>",
+    "pass_sent_view":"-Sent List : View whisper <Pass>",
+    "fail_sent_view":"-Sent List : View whisper <Fail>",
+    "pass_sent_removed":"-Sent List : The whisper is removed from the list <Pass>",
+    "fail_sent_removed":"-Sent List : The whisper is removed from the list <Fail>"
+    
+
+
+  },
+  "resource_msg":{
+    "pass_type_list": "-Get resource category list <Pass>",
+    "fail_type_list": "-Get resource category list <Fail>" ,
+    "pass_add_type": "-Conference Room : Add type of resource <Pass>",
+    "fail_add_type": "-Conference Room : Add type of resource <Fail>",
+    "pass_room_displayed": "-Conference Room : Displayed in list <Pass>",
+    "fail_room_displayed": "-Conference Room : Displayed in list <Fail>",
+    "fail_room_type": "-Conference Room : Displayed but type of resource is updated wrong <Fail>",
+
+    "pass_add_vehicle": "-Vehicle : Add type of resource <Pass>",
+    "fail_add_vehicle": "-Vehicle : Add type of resource <Fail>",
+    "pass_vehicle_displayed": "-Vehicle : Displayed in list <Pass>",
+    "fail_vehicle_displayed": "-Vehicle : Displayed in list <Fail>",
+    "fail_vehicle_type": "-Vehicle : Displayed but type of resource is updated wrong <Fail>",
+
+    "pass_add_normal": "-Normal : Add type of resource <Pass>",
+    "fail_add_normal": "-Normal : Add type of resource <Fail>",
+    "pass_normal_displayed": "-Normal : Displayed in list <Pass>",
+    "fail_normal_displayed": "-Normal : Displayed in list <Fail>",
+    "fail_normal_type": "-Normal : Displayed but type of resource is updated wrong <Fail>",
+    
+    "pass_no_type":"-Conference Room :No type to add resource for this type <Pass>",
+    "pass_add_resource":"-Conference Room :Add resource for this type <Pass>",
+    "fail_add_resource":"-Conference Room :Add resource for this type <Fail>",
+    "pass_resource_displayed_r": "-Resource Room :The Added resource displayed in list <Pass>",
+    "fail_resource_displayed_r": "-Resource Room :The Added resource displayed in list <Fail>",
+
+    "pass_no_type_v":"-Vehicle :No type to add resource for this type <Pass>",
+    "pass_add_resource_v":"-Vehicle :Add resource for this type <Pass>",
+    "fail_add_resource_v":"-Vehicle :Add resource for this type <Fail>",
+    "pass_resource_displayed_v": "-Vehicle :The Added resource displayed in list <Pass>",
+    "fail_resource_displayed_v": "-Vehicle :The Added resource displayed in list <Fail>",
+
+    "pass_no_reserve" :"-:No resource to reserve resources"
+  },
+  "mail_msg":{
+    "pass_compose":"-Send mail <Pass>",
+    "fail_compose":"-Send mail <Fail>",
+    "pass_received":"-Inbox List :The received mail is displayed in the list <Pass>",
+    "fail_received":"-Inbox List :The received mail is displayed in the list <Fail>",
+    "pass_sent":"-Sent List :The mail sent is displayed in the list <Pass>",
+    "fail_sent":"-Sent List :The mail sent is displayed in the list <Fail>",
+    "fail_get_list":"-Get mail list <Pass>",
+    "pass_no_reply":"-Inbox List :There is no mail to reply <Pass>",
+    "pass_reply":"-Reply mail <Pass>",
+    "fail_reply":"-Reply mail <Fail>",
+    "pass_received_reply":"-Reply :The received mail is displayed in the list <Pass>",
+    "fail_received_reply":"-Reply :The received mail is displayed in the list <Fail>",
+    "pass_sent_reply":"-Reply :The mail sent is displayed in the list <Pass>",
+    "fail_sent_reply":"-Reply :The mail sent is displayed in the list <Fail>",
+    "pass_inbox_view":"-Inbox List :View mail <Pass>",
+    "fail_inbox_view":"-Inbox List :View mail <Fail>",
+    "pass_sent_view":"-Sent List :View mail <Pass>",
+    "fail_sent_view":"-Sent List :View mail <Fail>",
+    "pass_no_mail":"-Inbox List :There are no mail to view and delete <Pass>",
+    "pass_inbox_delete":"-Inbox List :Delete mail <Pass>",
+    "fail_inbox_delete":"-Inbox List :Delete mail <Fail>",
+    "pass_inbox_removed":"-Inbox List : The mail is removed from the list <Pass>",
+    "fail_inbox_removed":"-Inbox List : The mail is removed from the list <Fail>",
+    "pass_sent_delete":"-Sent List :Delete mail <Pass>",
+    "fail_sent_delete":"-Sent List :Delete mail <Fail>",
+    "pass_sent_removed":"-Sent List : The mail is removed from the list <Pass>",
+    "fail_sent_removed":"-Sent List : The mail is removed from the list <Fail>"
+
+  },
+  "comanage_msg":{
+    "pass_wt_add":"-Work Type : Add Work Type <Pass>",
+    "fail_wt_add":"-Work Type : Add Work Type <Fail>",
+    "fail_wt_list":"-Admin : Get Work Type list <fail>",
+    "pass_wt_displayed":"-Work Type : The work type is displayed in the list <Pass>",
+    "fail_wt_displayed":"-Work Type : The work type is displayed in the list <Pass>",
+    "pass_wt_color":"-Work Type : The Color correct <Pass>",
+    "fail_wt_color":"-Work Type : The Color correct <Fail>",
+    "pass_wt_icon":"-Work Type : The Icon correct <Pass>",
+    "fail_wt_icon":"-Work Type : The Icon correct <Fail>",
+    "pass_st_add":"-Status : Add Status <Pass>",
+    "fail_st_add":"-Status : Add Status <Fail>",
+    "pass_st_displayed":"-Status : The status is displayed in the list <Pass>",
+    "fail_st_displayed":"-Status : The status is displayed in the list <Pass>",
+    "pass_st_description":"-Status : The description correct <Pass>",
+    "fail_st_description":"-Status : The description correct <Fail>",
+    "pass_st_category":"-Status : The category correct <Pass>",
+    "fail_st_category":"-Status : The category correct <Fail>",
+    "pass_st_base":"-Status : The base correct <Pass>",
+    "fail_st_base":"-Status : The base correct <Fail>",
+    "fail_st_list":"-Admin : Get Work Type list <fail>",
+    "pass_pj_add":"-Project : Add project <Pass>",
+    "fail_pj_add":"-Project : Add project <Fail>",
+    "fail_pj_list":"-Get project list <fail>",
+    "pass_pj_displayed":"-Project : The Project is displayed in the list <Pass>",
+    "fail_pj_displayed":"-Project : The Project is displayed in the list <Fail>",
+    "pass_access_pj":" Access project",
+    "pass_add_member":"-Add member <Pass>",
+    "fail_add_member":"-Add member <Fail>",
+    "pass_add_leader":"-Add leader <Pass>",
+    "fail_add_leader":"-Add leader <Fail>"
+    
+  },
+  "expense_msg":{
+    "pass_add_folder":"-Add folder <Pass>",
+    "fail_add_folder":"-Add folder <Fail>",
+    "fail_folder_list" :"-Get folder list <Fail>",
+    "pass_folder_displayed":"-The folder is displayed <Pass>",
+    "fail_folder_displayed":"-The folder is displayed <Fail>",
+    "pass_add_expense":"-Add Expense <Pass>",
+    "fail_add_expense":"-Add Expense <Fail>",
+    "pass_expense_displayed":"-The added expense is displayed <Pass>",
+    "fail_expense_displayed":"-The added expense is displayed <Fail>"
+
+  },
+  "asset_msg":{
+
+  }
+}
